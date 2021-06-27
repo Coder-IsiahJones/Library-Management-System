@@ -4,9 +4,8 @@
 
 
 
-A lightweight library management system built in ASP.NET Core 2.0
+A lightweight library management system built in ASP.NET Core 2.0 using EntityFramework.
 
 I started this Web Application based on this YouTube series: [YouTube link](https://www.youtube.com/watch?v=WTVcLFTgDqs)
-
 
 Why ASP.NET Core 2.0? Good question. I want the experience of working with a legacy application and taking it from its current stage to .Net 5.
