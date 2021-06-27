@@ -6,5 +6,7 @@
 
 A lightweight library management system built in ASP.NET Core 2.0
 
-I created a YouTube series when I started this application: [YouTube link](https://www.youtube.com/watch?v=WTVcLFTgDqs)
-The application has since been migrated to dotnet core 2.0.
+I started this application baseed of on this YouTube series: [YouTube link](https://www.youtube.com/watch?v=WTVcLFTgDqs)
+
+
+Why ASP.NET Core 2.0? Good question. I want the experience of working with a legacy application and taking it from its current stage to .Net 5.
